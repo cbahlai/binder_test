@@ -4,8 +4,6 @@
 #crops surrounding a relevant point
 
 
-
-
 library(cdlTools)
 
 # years to query
